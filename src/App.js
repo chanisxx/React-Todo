@@ -66,7 +66,7 @@ class App extends React.Component {
   render() {
     return (
       <div style = {{textAlign: 'center'}}>
-        <h2>Welcome to your Todo App!</h2>
+        <h2>Welcome to your Todo App !</h2>
         <TodoForm 
           addItem = { this.addItem }
         />
