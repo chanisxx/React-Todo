@@ -30,7 +30,7 @@ class TodoForm extends React.Component {
                 onChange = { this.handleChanges }
                 placeHolder = 'Add a Task...'
                 />
-                <button>+</button>
+                <button> + </button>
             </form>
             </div>
         );
